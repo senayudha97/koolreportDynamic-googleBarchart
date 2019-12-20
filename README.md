@@ -1,0 +1,2 @@
+# koolreportDynamic-googleBarchart
+Database include
