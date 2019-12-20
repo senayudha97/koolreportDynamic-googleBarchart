@@ -1,0 +1,32 @@
+{
+    "name": "g1g1/simrs",
+    "description": "SIMRS RSUD Dr. Saiful Anwar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nuril Isbah",
+            "email": "nuril.isbah@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/verot/class.upload.php"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24",
+        "robmorgan/phinx": "^0.9.2",
+        "phpoffice/phpspreadsheet": "^1.5",
+        "verot/class.upload.php": "dev-master",
+        "dompdf/dompdf": "^0.8.3",
+        "vlucas/phpdotenv": "^2.5",
+        "mpdf/mpdf": "^7.1",
+        "guzzlehttp/guzzle": "~6.0",
+        "koolphp/koolreport": "^3.25",
+        "twig/twig": "^2.0",
+        "khill/lavacharts": "^3.1",
+        "picqer/php-barcode-generator": "^0.3.0",
+        "koolreport/core": "^4.3"
+    }
+}
